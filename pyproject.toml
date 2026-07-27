@@ -9,4 +9,5 @@ dependencies = [
     "langchain-community>=0.3",
     "langchain-openai>=0.2",
     "langchain-openrouter>=0.2.7",
+    "pylance>=9.0.0",
 ]
