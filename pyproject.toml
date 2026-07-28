@@ -10,4 +10,5 @@ dependencies = [
     "langchain-openai>=0.2",
     "langchain-openrouter>=0.2.7",
     "pylance>=9.0.0",
+    "langchain-groq>=1.1.3",
 ]
